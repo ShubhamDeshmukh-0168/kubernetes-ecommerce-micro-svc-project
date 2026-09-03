@@ -220,7 +220,6 @@ resource "aws_security_group" "sd_allow_all" {
     Name = "sd-allow-all-sg"
   }
 }
-
 ############################
 # IAM ROLE - CLUSTER
 ############################
